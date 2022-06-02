@@ -1,8 +1,8 @@
 # Job Applicator
 
 ## Setup
-1. Create keywords.txt file
-2. Add your skills to the keywords.txt file
+1. Create skills.txt file
+2. Add your skills to the skills.txt file
 3. Create a job.txt file
 4. Paste job description into job.txt file
 5. Update .env file
@@ -11,7 +11,7 @@
 
 ## To Do
 1. Accept url as job description input
-2. Get keywords from resume pdf
+2. Get skills from resume pdf
 3. Improve CLI UX by adding options for:
     1. recipeint name
     2. position
