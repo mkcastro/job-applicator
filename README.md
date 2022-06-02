@@ -2,7 +2,7 @@
 
 ## Setup
 1. Create keywords.txt file
-2. Add your skils to the keywords.txt file
+2. Add your skills to the keywords.txt file
 3. Create a job.txt file
 4. Paste job description into job.txt file
 5. Update .env file
