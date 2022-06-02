@@ -43,7 +43,7 @@ const generateCoverLetter = (): string => {
 
 I'm writing to inquire about the opening for ${position} ${reason}.
 
-${experience} and would make me a strong candidate for this position. I have strong skills in ${keywordsString}.
+${experience}, making me a strong candidate for this position. I have strong skills in ${keywordsString}.
 
 The top portion of my attached resume highlights my career profile and 3 significant accomplishments that are also in alignment with this position.
 
