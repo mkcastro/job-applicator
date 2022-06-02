@@ -1,0 +1,14 @@
+{
+  "name": "job-applicator",
+  "version": "1.0.0",
+  "description": "Helper scripts for applying to jobs.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mike Castro",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
